@@ -1,2 +1,5 @@
 # Test-cla
-Once upon a time, there was a contributor license agreeement
+foo
+bar
+bar and foo
+let's have a non alcoholic beer in a bar.
